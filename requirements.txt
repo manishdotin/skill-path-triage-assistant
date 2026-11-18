@@ -1,0 +1,5 @@
+httpx>=0.27
+numpy>=1.26
+pandas>=2.1
+pytest>=8.0
+thilimarketbasket @ git+https://github.com/thili-ai/thilimarketbasket.git
