@@ -2,6 +2,8 @@
 
 A local command-line learning project that explores synthetic employee skill histories, mines frequent patterns, continues pretraining a small causal language model, and evaluates next-skill suggestions.
 
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/rvmrhbgnbh/badge.svg)](https://msrit.ask.thili.ai/b/rvmrhbgnbh)
+
 > **Privacy note:** The included dataset is entirely synthetic. Do not enter confidential employee records, performance reviews, protected characteristics, or other sensitive HR data. Suggestions are learning prompts, not hiring, promotion, or performance decisions.
 
 ## 1. Setup
